@@ -44,13 +44,3 @@ if __name__ == '__main__':
     
 #python mlops_zoomcamp_homework_4.py --year 2023 --month 4
 #python mlops_zoomcamp_homework_4.py --year 2023 --month 5
-
-
-
-
-
-
-
-
-
-3
